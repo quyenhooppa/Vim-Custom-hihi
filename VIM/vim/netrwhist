@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/quyenhooppa/Dropbox'
+let g:netrw_dirhist_5='/Users/quyenhooppa/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_4='/Users/quyenhooppa/.espressif/python_env/idf4.2_py3.7_env'
+let g:netrw_dirhist_3='/Users/quyenhooppa/.config'
+let g:netrw_dirhist_2='/Users/quyenhooppa/.espressif'
+let g:netrw_dirhist_1='/usr/local/lib/python3.7/site-packages/simpy'
